@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Yashvi Popat</h1>
 <h3 align="center">A passionate AI/ML Enthusiastic</h3>
 
-![Image](https://github.com/user-attachments/assets/1670d864-cdd3-49e2-9ce0-31d6490afcba)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1670d864-cdd3-49e2-9ce0-31d6490afcba" alt="Image" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvipopat&label=Profile%20views&color=0e75b6&style=flat" alt="yashvipopat" /> </p>
 
-- 🔭 I’m currently working on **Budget Management system with Investment Recommendations.**
+- 🔫 I’m currently working on **Budget Management system with Investment Recommendations.**
 
 - 🌱 I’m currently learning **Attention, Self-Attention & Transformers Models.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YashviPopat](https://github.com/YashviPopat)
 
-- 📫 How to reach me **yashvimj13@gmail.com**
+- 📧 How to reach me **yashvimj13@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1l9BxworaQGFN3j_1tYhbnZW5fU4fqWOJ](https://drive.google.com/drive/folders/1l9BxworaQGFN3j_1tYhbnZW5fU4fqWOJ)
 
